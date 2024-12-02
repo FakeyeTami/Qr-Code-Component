@@ -54,7 +54,7 @@
 ### Screenshot
 
 <div align="center">
-  <img src="./assets/images/screenshot.jpg" alt="Qr Code Component Solution Screenshot">
+  <img src="./assets/images/preview.jpg" alt="Qr Code Component Solution Screenshot">
 </div>
 
 ### Links
