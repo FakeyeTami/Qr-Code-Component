@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank"><strong>View Challenge</strong></a>
     <br />
     <br />
-    <a href="https://fakeyet.github.io/Qr-Code-Component/" target="_blank">Live Demo</a>
+    <a href="https://FakeyeTami.github.io/Qr-Code-Component/" target="_blank">Live Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Qr-Code-Component/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/FakeyeTami/Qr-Code-Component/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/Fakeyet/Qr-Code-Component/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/FakeyeTami/Qr-Code-Component/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 ### Links
 
 - **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-semantic-html-flexbox-ZADYTQh4aX)
-- **Live Demo**: [Live Site](https://fakeyet.github.io/Qr-Code-Component/)
+- **Live Demo**: [Live Site](https://FakeyeTami.github.io/Qr-Code-Component/)
 
 ---
 
